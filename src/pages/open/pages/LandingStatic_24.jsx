@@ -16,7 +16,7 @@ const LandingStatic_24 = () => {
                   <li>
                     <Link
                       className='hover:text-accent-400 transition-colors'
-                      to='/cabins'
+                      to='/landing'
                     >
                       Home_24
                     </Link>
