@@ -18,6 +18,14 @@ const LandingStatic_24 = () => {
                       className='hover:text-accent-400 transition-colors'
                       to='/cabins'
                     >
+                      Home_24
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      className='hover:text-accent-400 transition-colors'
+                      to='/cabins'
+                    >
                       Cabins
                     </Link>
                   </li>
